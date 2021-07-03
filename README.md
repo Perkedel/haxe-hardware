@@ -36,8 +36,8 @@ corresponding `JNI.createStaticMethod(...)` call in `Hardware.hx`.
 Thank you to [alagator](https://github.com/alagatar) for contributing `wakeUp()`!
 
 ### Copyright
-- [haxe-hardware (upstream)](https://github.com/ktravis/haxe-hardware ). Copyright (c) @ktravis - all rights reserved. (MIT)
-- This thing, just part of the mod. Copyright (c) Perkedel Technologies - .... rights reserved. (GNU LGPL v3)
+- [haxe-hardware (upstream)](https://github.com/ktravis/haxe-hardware ). Copyright (c) 2014 Kyle Travis . (MIT)
+- This thing, just part of the mod. Copyright (c) Perkedel Technologies . (GNU LGPL v3)
 
 ### Why this mod?
 JOELwindows7: It is provided here due to incompatibility with current Haxe standard. I was tried to use this for my game mod, inspiring from the original game author's previous work that uses this library. It errored because it lacked 64-bit ARM library binaries. So here I fixed it. I may have more features coming because according to this [Pull request response](https://github.com/ktravis/haxe-hardware/pull/2#issuecomment-873434236 ), he seems have no plan of going to further work on it and may archive it in some time.  
