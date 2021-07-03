@@ -1,12 +1,12 @@
 {
   "name": "Hardware",
   "url": "",
-  "license": "MIT",
+  "license": "GNU-LGPLv3",
   "tags": [],
-  "description": "",
-  "version": "1.0.0",
+  "description": "Access Android hardware features",
+  "version": "2021.07.0",
   "releasenote": "",
-  "contributors": [""],
+  "contributors": ["ktravis", "JOELwindows7"],
   "dependencies": {
 
   }
