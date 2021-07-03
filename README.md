@@ -6,6 +6,8 @@ Simple OpenFL extension for accessing android device hardware methods. Lime vers
 Currently implements methods to use the android vibrator, wake up, and access screen
 dimensions.
 
+Install Lime via `haxelib install lime`
+
 Install via `haxelib git haxe-hardware https://github.com/Perkedel/haxe-hardware`
 
 Add to `project.xml`:
