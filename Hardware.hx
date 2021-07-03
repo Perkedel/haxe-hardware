@@ -7,7 +7,7 @@ import neko.Lib;
 #end
 
 #if (android && openfl)
-import openfl.utils.JNI;
+import lime.system.JNI; //It seems OpenFl's JNI is gone?
 #end
 
 class Hardware 

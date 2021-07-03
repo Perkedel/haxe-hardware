@@ -1,17 +1,19 @@
-haxe-hardware
+haxe-hardware (but it's Lime version)
 =============
 
-Simple OpenFL extension for accessing android device hardware methods.
+Simple OpenFL extension for accessing android device hardware methods. Lime version, due to missing JNI in the latest OpenFL it seems.
 
-Currently implements methods to use the android vibrator and access screen
+Currently implements methods to use the android vibrator, wake up, and access screen
 dimensions.
 
-Install via `haxelib git haxe-hardware https://github.com/ktravis/haxe-hardware`
+Install via `haxelib git haxe-hardware https://github.com/Perkedel/haxe-hardware`
 
 Add to `project.xml`:
 
     <haxelib name="openfl" />
     <haxelib name="haxe-hardware" if="android" />
+
+or if you use HaxeFlixel, you do not need `<haxelib name="openfl" />` anymore.
 
 And import into your project (haxe) with:
   
